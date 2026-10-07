@@ -92,7 +92,7 @@ The dashboard is a single self-contained HTML file.
 
 - Analysis: Python (pandas, statsmodels, SciPy)
 - Dashboard: HTML, CSS, JavaScript and [Chart.js](https://www.chartjs.org/) 4.4.1
-- Presentation: PowerPoint (`TSA_Inventory_Supply_Chain.pptx`)
+- Presentation: PowerPoint (`TSA Inventory Supply Chain.pptx`)
 
 ## Repository contents
 
