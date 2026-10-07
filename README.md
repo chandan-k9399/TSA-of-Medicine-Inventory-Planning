@@ -98,11 +98,7 @@ The dashboard is a single self-contained HTML file.
 
 ```
 inventory_dashboard.html          Interactive dashboard
-TSA_Inventory_Supply_Chain.pptx   Presentation slides
+Presentation slides
 medical_dataset.csv               Source data (add if sharing is allowed)
 README.md
 ```
-
-## Team
-
-_Add the names of your four team members here._
