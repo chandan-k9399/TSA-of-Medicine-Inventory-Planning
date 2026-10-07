@@ -98,7 +98,6 @@ The dashboard is a single self-contained HTML file.
 
 ```
 inventory_dashboard.html          Interactive dashboard
-Presentation slides
 medical_dataset.csv               Source data (add if sharing is allowed)
 README.md
 ```
